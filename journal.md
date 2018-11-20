@@ -5,6 +5,9 @@ Measurements over West Africa - Simulations of changes files to make a paper
 Daniel Nisbet
 John Smith
 
+# Abstract
+Write this last. It's tricky. Include your main result so people can cite without having to read the whole thing.
+
 # Introduction
 Some text goes here. Paper by Allen references
 
