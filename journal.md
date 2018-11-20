@@ -9,3 +9,6 @@ John Smith
 Some text goes here. Paper by Allen references
 
 And we also used some measurements by Bailey
+
+# Simulations
+John's added in some helpful things and supported an extended hypothesis because of science.
