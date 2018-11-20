@@ -15,3 +15,6 @@ John's added in some helpful things and supported an extended hypothesis because
 
 # Methodology
 Particle size dists were measured using TSI SMPS (Bloggs 1999).
+
+# Figures
+this is where figures go
