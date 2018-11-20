@@ -1,8 +1,8 @@
 # Title
-This is a file which we are going to track the changes of.
+Measurements over West Africa
 
 # Authors
-Daniel Nisbet, Bob
+Daniel Nisbet
 
 # Introduction
 Some text goes here. Paper by Allen references
