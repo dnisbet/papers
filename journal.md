@@ -1,8 +1,9 @@
 # Title
-This is a file which we are going to track the changes of.
+Simulations of changes files to make a paper
 
 # Authors
-Daniel Nisbet, Bob
+Daniel Nisbet
+John Smith
 
 # Introduction
 Some text goes here. Paper by Allen references
