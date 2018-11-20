@@ -12,3 +12,6 @@ And we also used some measurements by Bailey
 
 # Simulations
 John's added in some helpful things and supported an extended hypothesis because of science.
+
+# Methodology
+Particle size dists were measured using TSI SMPS (Bloggs 1999).
